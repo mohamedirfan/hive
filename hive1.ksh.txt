@@ -3,3 +3,4 @@ set -x
 #!/bin/bash
 #Script to create hive partition load
 #bash hivepart.ksh /home/hduser/hivepart retail.txnrecsbycatdtreg
+echo "adding a line"
